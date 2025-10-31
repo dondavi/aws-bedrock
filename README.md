@@ -1,12 +1,11 @@
-# aws-bedrock
-AWS Bedrock development with Claud Code
-npm install -g @anthropic-ai/claude-code
-export CLAUDE_CODE_USE_BEDROCK=1
-export ANTHROPIC_MODEL='us.anthropic.claude-sonnet-4-5-20250929-v1:0'
+## Initial Setup
 
-claude
+AWS Bedrock development with Claude Code
+- npm install -g @anthropic-ai/claude-code
+- export CLAUDE_CODE_USE_BEDROCK=1
+- export ANTHROPIC_MODEL='us.anthropic.claude-sonnet-4-5-20250929-v1:0'
 
-### Start Summary here
+### Start Claude Code Summary here
 
 ## Flask Dashboard
 
